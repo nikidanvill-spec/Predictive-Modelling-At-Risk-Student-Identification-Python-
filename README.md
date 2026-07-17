@@ -42,4 +42,5 @@ students using classification modelling.
 
 ## Pipeline Diagram
 
-![Pipeline Diagram](pipeline_diagram.jpg) 
+<img width="4359" height="6325" alt="pipeline_diagram" src="https://github.com/user-attachments/assets/9a08893a-0675-495c-b069-3818ae4dc22c" />
+
