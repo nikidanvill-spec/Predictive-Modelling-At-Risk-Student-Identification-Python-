@@ -1,0 +1,7 @@
+,mean,std
+accuracy,0.766,0.047
+auc,0.803,0.045
+recall_pass,0.8,0.109
+f1_pass,0.837,0.045
+recall_fail,0.661,0.191
+f1_fail,0.561,0.046
