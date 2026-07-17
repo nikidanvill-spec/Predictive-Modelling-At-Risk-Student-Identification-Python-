@@ -40,3 +40,6 @@ included so the methodology and findings can be reviewed in full.
 This was the technical foundation of my Master's thesis on early identification of at-risk
 students using classification modelling.
 
+## Pipeline Diagram
+
+![Pipeline Diagram](pipeline_diagram.jpg) 
